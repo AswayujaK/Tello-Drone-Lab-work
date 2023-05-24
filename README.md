@@ -15,6 +15,3 @@ LAB 5 - YELLO (YOLO + TELLO): The drone will be able to identify different objec
 
 LAB 6 - COLLISION AVOIDANCE DRONE: The drone will be able to identify different objects in the captured footage in real time (human face in our implementation) follows the object and also makes sure the drone doesn’t go too close to that object.
 
-
-
-Reference to the repository used for this project is: https://github.com/crazysuryaa/Autonomous_Tello_Drone
